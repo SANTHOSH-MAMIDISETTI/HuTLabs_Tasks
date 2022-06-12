@@ -1,9 +1,10 @@
 #include<iostream>
+
 using namespace std;
 #define INF 999
 
 
-int V , cost [100][100],src,dist[100],parent[100];
+int V ,cost [100][100],src,dist[100],parent[100];
 bool visited[100] = {0} ;
 
 void init()
