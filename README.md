@@ -4,4 +4,4 @@ Implementation of [Dijkstra's_algorithm](https://en.wikipedia.org/wiki/Dijkstra'
 
 ## To do
 
-Trying to make it user interactive by adding GUI to it help is much appreciated.
+Trying to make it user interactive by adding GUI to it. Help is much appreciated.
